@@ -1,4 +1,4 @@
-"# DevOpsChallange" 
+# DevOpsChallange
 
 *Prerequisites:*
   -	Install latest version of  [Git bash](https://git-scm.com/downloads)
