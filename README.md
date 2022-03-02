@@ -21,3 +21,6 @@
 
 3) Clean up
   - Exit the docker swarm manager and execute ````vagrant destroy````
+
+
+  #Still learning and working on secrets, will update soon
