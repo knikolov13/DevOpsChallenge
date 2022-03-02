@@ -5,7 +5,7 @@
   -	Install latest version of [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
   -	Install latest version of  [Vagrant](https://www.vagrantup.com/intro/getting-started/install.html)
 
- 1) *Instructions:*
+ 1) *Instructions for local deployment:*
   - `git clone https://github.com/knikolov13/DevOpsChallenge.git`
   - `cd DevOpsChallenge`
   - Run ```vagrant up``` command
