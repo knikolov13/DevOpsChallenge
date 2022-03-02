@@ -27,7 +27,7 @@ Vagrant.configure("2") do |config|
       node1.vm.network "forwarded_port", guest: 80, host: 8080, auto_correct: true
       node1.vm.synced_folder "./docker", "/vagrant"
       node1.vm.provision :shell, inline: $docker_swarm_init
-    end
+   end
 
     config.vm.define "node2" do |node2|
       config.vm.box = "debian/bullseye64"
